@@ -22,3 +22,6 @@ Meu nome é Erick, eu sou um estudante da escola tecnica estadual Vasco Antonio 
 ![](https://github-contributor-stats.vercel.app/api?username=Erick14XIT&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/Erick14XIT/Erick14XIT/blob/output/github-snake-dark.svg)
